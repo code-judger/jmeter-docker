@@ -1,0 +1,43 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1677280030003,1082,https://jmeter.apache.org/index.html,200,OK,Thread Group 1-1,text,true,,141497,4192,1,1,https://jmeter.apache.org/index.html,519,0,461
+1677280030003,534,https://jmeter.apache.org/index.html-0,200,OK,Thread Group 1-1,text,true,,21252,510,1,1,https://jmeter.apache.org/index.html,519,0,461
+1677280030581,374,https://jmeter.apache.org/index.html-1,200,OK,Thread Group 1-1,text,true,,2397,536,1,1,https://fonts.googleapis.com/css?family=Merriweather:400normal,374,0,322
+1677280030582,293,https://jmeter.apache.org/index.html-2,200,OK,Thread Group 1-1,text,true,,29677,549,1,1,https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css,291,0,217
+1677280030582,43,https://jmeter.apache.org/index.html-3,200,OK,Thread Group 1-1,text,true,,10998,517,1,1,https://jmeter.apache.org/css/new-style.css,39,0,0
+1677280030582,171,https://jmeter.apache.org/index.html-4,200,OK,Thread Group 1-1,bin,true,,5395,518,1,1,https://jmeter.apache.org/images/favicon.png,171,0,92
+1677280030582,183,https://jmeter.apache.org/index.html-5,200,OK,Thread Group 1-1,text,true,,27969,519,1,1,https://jmeter.apache.org/images/asf-logo.svg,168,0,90
+1677280030582,188,https://jmeter.apache.org/index.html-6,200,OK,Thread Group 1-1,text,true,,35656,515,1,1,https://jmeter.apache.org/images/logo.svg,171,0,96
+1677280030755,330,https://jmeter.apache.org/index.html-7,200,OK,Thread Group 1-1,bin,true,,8153,528,1,1,https://www.apache.org/events/current-event-234x60.png,330,0,256
+1677280033220,866,https://www.apache.org/licenses/,200,OK,Thread Group 1-1,text,true,,414742,8320,1,1,https://www.apache.org/licenses/,45,0,0
+1677280033220,56,https://www.apache.org/licenses/-0,200,OK,Thread Group 1-1,text,true,,29907,506,1,1,https://www.apache.org/licenses/,45,0,0
+1677280033285,181,https://www.apache.org/licenses/-1,200,OK,Thread Group 1-1,bin,true,,2113,523,1,1,https://www.apache.org/favicons/favicon-32x32.png,181,0,92
+1677280033285,46,https://www.apache.org/licenses/-2,200,OK,Thread Group 1-1,bin,true,,9706,525,1,1,https://www.apache.org/favicons/favicon-194x194.png,46,0,0
+1677280033285,171,https://www.apache.org/licenses/-3,200,OK,Thread Group 1-1,bin,true,,5172,523,1,1,https://www.apache.org/favicons/favicon-96x96.png,171,0,94
+1677280033285,164,https://www.apache.org/licenses/-4,200,OK,Thread Group 1-1,bin,true,,9631,532,1,1,https://www.apache.org/favicons/android-chrome-192x192.png,163,0,92
+1677280033285,161,https://www.apache.org/licenses/-5,200,OK,Thread Group 1-1,bin,true,,1583,523,1,1,https://www.apache.org/favicons/favicon-16x16.png,161,0,92
+1677280033285,181,https://www.apache.org/licenses/-6,200,OK,Thread Group 1-1,bin,true,,2847,517,1,1,https://www.apache.org/favicons/favicon.ico,181,0,94
+1677280033332,39,https://www.apache.org/licenses/-7,200,OK,Thread Group 1-1,text,true,,1577,523,1,1,https://www.apache.org/css/Montserrat-300-600.css,39,0,0
+1677280033372,97,https://www.apache.org/licenses/-8,200,OK,Thread Group 1-1,text,true,,117288,518,1,1,https://www.apache.org/css/min.bootstrap.css,55,0,0
+1677280033446,42,https://www.apache.org/licenses/-9,200,OK,Thread Group 1-1,text,true,,9948,511,1,1,https://www.apache.org/css/styles.css,40,0,0
+1677280033450,636,https://www.apache.org/licenses/-10,200,OK,Thread Group 1-1,text,true,,11989,524,1,1,https://cse.google.com/cse.js?cx=cb41d2753d228d8b7,634,0,549
+1677280033456,46,https://www.apache.org/licenses/-11,200,OK,Thread Group 1-1,bin,true,,10616,529,1,1,https://www.apache.org/events/current-event-125x125.png,42,0,0
+1677280033466,89,https://www.apache.org/licenses/-12,200,OK,Thread Group 1-1,bin,true,,56397,523,1,1,https://www.apache.org/img/asf-estd-1999-logo.jpg,50,0,0
+1677280033466,99,https://www.apache.org/licenses/-13,200,OK,Thread Group 1-1,text,true,,85502,519,1,1,https://www.apache.org/js/jquery-2.1.1.min.js,53,0,0
+1677280033502,83,https://www.apache.org/licenses/-14,200,OK,Thread Group 1-1,text,true,,58461,512,1,1,https://www.apache.org/js/bootstrap.js,46,0,0
+1677280033505,42,https://www.apache.org/licenses/-15,200,OK,Thread Group 1-1,text,true,,2005,512,1,1,https://www.apache.org/js/slideshow.js,42,0,0
+1677280040271,53,https://jmeter.apache.org/index.html,304,Not Modified,Thread Group 1-1,,true,,278,597,1,1,https://jmeter.apache.org/index.html,0,0,0
+1677280042136,199,https://jmeter.apache.org/usermanual/get-started.html,200,OK,Thread Group 1-1,text,true,,133424,6911,1,1,https://jmeter.apache.org/usermanual/get-started.html,46,0,0
+1677280042136,97,https://jmeter.apache.org/usermanual/get-started.html-0,200,OK,Thread Group 1-1,text,true,,100591,527,1,1,https://jmeter.apache.org/usermanual/get-started.html,46,0,0
+1677280042242,52,https://jmeter.apache.org/usermanual/get-started.html-1,200,OK,Thread Group 1-1,text,true,,2397,586,1,1,https://fonts.googleapis.com/css?family=Merriweather:400normal,52,0,0
+1677280042242,18,https://jmeter.apache.org/usermanual/get-started.html-2,304,Not Modified,Thread Group 1-1,,true,,848,599,1,1,https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css,0,0,0
+1677280042242,40,https://jmeter.apache.org/usermanual/get-started.html-3,304,Not Modified,Thread Group 1-1,,true,,278,604,1,1,https://jmeter.apache.org/css/new-style.css,0,0,0
+1677280042242,40,https://jmeter.apache.org/usermanual/get-started.html-4,304,Not Modified,Thread Group 1-1,,true,,255,605,1,1,https://jmeter.apache.org/images/favicon.png,0,0,0
+1677280042242,45,https://jmeter.apache.org/usermanual/get-started.html-5,304,Not Modified,Thread Group 1-1,,true,,278,606,1,1,https://jmeter.apache.org/images/asf-logo.svg,0,0,0
+1677280042242,40,https://jmeter.apache.org/usermanual/get-started.html-6,304,Not Modified,Thread Group 1-1,,true,,278,602,1,1,https://jmeter.apache.org/images/logo.svg,0,0,0
+1677280042261,51,https://jmeter.apache.org/usermanual/get-started.html-7,304,Not Modified,Thread Group 1-1,,true,,324,615,1,1,https://www.apache.org/events/current-event-234x60.png,0,0,0
+1677280042283,41,https://jmeter.apache.org/usermanual/get-started.html-8,200,OK,Thread Group 1-1,bin,true,,7832,536,1,1,https://jmeter.apache.org/images/screenshots/template_menu.png,41,0,0
+1677280042283,40,https://jmeter.apache.org/usermanual/get-started.html-9,200,OK,Thread Group 1-1,bin,true,,12416,538,1,1,https://jmeter.apache.org/images/screenshots/template_wizard.png,40,0,0
+1677280042283,38,https://jmeter.apache.org/usermanual/get-started.html-10,200,OK,Thread Group 1-1,bin,true,,5034,552,1,1,https://jmeter.apache.org/images/screenshots/templates/template_parameters.png,38,0,0
+1677280042287,48,https://jmeter.apache.org/usermanual/get-started.html-11,200,OK,Thread Group 1-1,bin,true,,2893,541,1,1,https://jmeter.apache.org/images/screenshots/log_errors_counter.png,48,0,0
+1677280044456,58,https://jmeter.apache.org/index.html,304,Not Modified,Thread Group 1-1,,true,,279,547,1,1,https://jmeter.apache.org/index.html,0,0,0
+1677280029950,2258,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-1,,true,,690220,20567,1,1,null,610,12307,461

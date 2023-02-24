@@ -1,6 +1,6 @@
 # JMeter Docker example
 
-## How to run
+## How to run the application
 
 ```
 1. Make sure that Docker is up and running

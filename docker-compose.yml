@@ -1,0 +1,8 @@
+version: '3'
+services:
+  jmeter:
+    build: .
+    volumes:
+      - ./input:/opt/apache-jmeter-5.3/bin/input
+      - ./output:/opt/apache-jmeter-5.3/bin/output
+    entrypoint: sh jmeter -n -t input/test.jmx -JThreadNumber=10 -JRampUpPeriod=1 -Jiterations=10 -l /opt/apache-jmeter-5.3/bin/output/results.csv -e -o /opt/apache-jmeter-5.3/bin/output
